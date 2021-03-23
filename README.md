@@ -1,24 +1,12 @@
 # eshop
 
-## Project setup
-```
-npm install
-```
+モバイル EC サイト(フロントエンド部分)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# アプリケーションの機能
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1.  登録とログイン
+2.  マイページ
+3.  店舗詳細
+4.  買い物かご
+5.  注文ページ
+6.  住所作成と変更
